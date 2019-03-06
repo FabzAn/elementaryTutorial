@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2018 Fabian Erdmann <fabian.erdmann3@gmx.de> -->
+<component type="desktop">
+  <id>com.github.FabzAn.elementaryTutorial</id>
+  <metadata_license>CC0</metadata_license>
+  <name>Hello Agan</name>
+  <summary>A Very Good Tutorial App</summary>
+  <description>
+    <p>Greeting is important, man</p>
+  </description>
+</component>
